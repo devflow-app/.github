@@ -1,16 +1,16 @@
-# Ecosistema DevFlow 🌌 — Plataforma SaaS Inteligente de Gestión de Proyectos
+# Ecosistema DevFlow  — Plataforma SaaS Inteligente de Gestión de Proyectos
 
 Bienvenido al ecosistema oficial de desarrollo de **DevFlow**, una solución SaaS moderna y de alto rendimiento inspirada en Jira y Linear, diseñada para optimizar los flujos de trabajo de ingeniería de software a través de asistencia inteligente con Inteligencia Artificial (IA) y automatización en tiempo real.
 
 ---
 
-## 🚀 Misión del Proyecto
+## Misión del Proyecto
 
 DevFlow busca revolucionar la administración ágil de tareas simplificando la burocracia de los sprints. Mediante el uso de modelos de lenguaje avanzados, estimación inteligente y una arquitectura distribuida sumamente responsiva, proporcionamos a los equipos de desarrollo un entorno limpio, rápido y centrado en la productividad real.
 
 ---
 
-## 🗂️ Repositorios del Ecosistema
+## Repositorios del Ecosistema
 
 El proyecto está dividido y modularizado para facilitar el despliegue continuo, el testing aislado y el escalado independiente:
 
@@ -26,7 +26,7 @@ El proyecto está dividido y modularizado para facilitar el despliegue continuo,
 
 ---
 
-## 🎨 Arquitectura y Stack Global de Tecnologías
+## Arquitectura y Stack Global de Tecnologías
 
 ```mermaid
 graph LR
